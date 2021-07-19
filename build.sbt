@@ -31,7 +31,7 @@ val zioConfigVersion = "1.0.0-RC29-1"
 val tapirVersion = "0.16.16"
 val http4sVersion = "0.21.24"
 val circeVersion = "0.13.0"
-val logbackVersion = "1.2.3"
+val logbackVersion = "1.2.4"
 
 reStart / javaOptions += "-Xmx16G"
 
