@@ -1,7 +1,7 @@
 package org.renci.cam
 
 import org.http4s.client.Client
-import org.http4s.client.blaze.BlazeClientBuilder
+import org.http4s.blaze.client.BlazeClientBuilder
 import zio._
 import zio.interop.catz._
 
